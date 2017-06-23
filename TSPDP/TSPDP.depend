@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1497936572 source:c:\users\333da\desktop\tspdp\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<climits>
+	<cmath>
+	<iomanip>
+
