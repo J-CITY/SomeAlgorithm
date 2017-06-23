@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492860361 source:c:\users\333da\desktop\trie\main.cpp
+	<iostream>
+	"trie.h"
+
+1492861076 c:\users\333da\desktop\trie\trie.h
+	<iostream>
+	<string>
+	<map>
+

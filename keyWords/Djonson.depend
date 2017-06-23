@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488683425 source:c:\users\333da\desktop\fefu\djonson\djonson\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<fstream>
+	<stdlib.h>
+
+1496474838 source:d:\desc\fefu\djonson\keywords\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<fstream>
+
+1496474838 source:c:\users\333da\desktop\keywords\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<fstream>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491043545 source:c:\users\333da\desktop\Щуров-бинаризация-кривизна\regex\main.cpp
+	<map>
+	<fstream>
+	<iostream>
+	<set>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<string>
+
+1491637934 source:c:\users\333da\desktop\regex\main.cpp
+	<map>
+	<fstream>
+	<iostream>
+	<set>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<string>
+
